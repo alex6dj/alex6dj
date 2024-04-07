@@ -1,20 +1,40 @@
-![alex6dj's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex6dj&count_private=true&show_icons=true&theme=transparent)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alex6dj&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
 ### Hi there 👋
 
-**alex6dj/alex6dj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**If you want to contact me:**
 
-Here are some ideas to get you started:
+[![Telegram](icons/telegram.png)](https://t.me/alex6dj)
+[![Gmail](icons/gmail.png)](mailto:alexeiagueroalba@gmail.com)
+[![Discord](icons/discord.png)](https://discordapp.com/users/373119663103541250/)
+[![Linkedin](icons/linkedin.png)](https://www.linkedin.com/in/alex6dj/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently working with:**
+
+[![Dotnet](icons/dotnet.png)](https://dotnet.microsoft.com/)
+[![Csharp](icons/csharp.png)](http://csharp.net/)
+[![Efcore](icons/efcore.png)](https://github.com/dotnet/efcore)
+[![Github](icons/github.png)](https://github.com/alex6dj/)
+[![Telegram](icons/telegram.png)](https://core.telegram.org/bots/api)
+[![Sqlite](icons/sqlite.png)](https://sqlite.org/)
+[![Jetbrains Rider](icons/rider.png)](https://www.jetbrains.com/es-es/rider/)
+
+**Learning:**
+
+[![Blazor](icons/blazor.png)](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)
+[![Docker](icons/docker.png)](https://www.docker.com/)
+[![Docker](icons/debian.png)](https://www.debian.org/index.es.html)
+
+**Previously worked with:**
+
+[![Microsoft Sql Server](icons/sql.png)](http://www.microsoft.com/sql/)
+[![Mysql](icons/mysql.png)](https://www.mysql.com/)
+[![Visual Basic .NET](icons/vbnet.png)](https://docs.microsoft.com/en-us/dotnet/visual-basic/)
+[![Windows Server](icons/windows.png)](https://www.microsoft.com/es-es/windows-server)
+[![Powershell](icons/powershell.png)](https://docs.microsoft.com/en-us/powershell)
+
+**Metrics**
+
+![alex6dj's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex6dj&count_private=true&show_icons=true&theme=white)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alex6dj&theme=white)](https://github.com/anuraghazra/github-readme-stats)
+
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.*
