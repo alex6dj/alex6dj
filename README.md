@@ -16,6 +16,7 @@
 [![Telegram](icons/telegram.png)](https://core.telegram.org/bots/api)
 [![Sqlite](icons/sqlite.png)](https://sqlite.org/)
 [![Jetbrains Rider](icons/rider.png)](https://www.jetbrains.com/es-es/rider/)
+[![Avalonia](icons/avalonia.png)](https://avaloniaui.net/)
 
 **Learning:**
 
