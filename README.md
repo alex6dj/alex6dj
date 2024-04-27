@@ -35,3 +35,5 @@
 **Metrics**
 
 ![alex6dj's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex6dj&count_private=true&show_icons=true&theme=white)
+
+*Note: These statistics do not reflect my true knowledge or performance. But it's just what github knows about me.*
